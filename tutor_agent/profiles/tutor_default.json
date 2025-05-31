@@ -1,0 +1,14 @@
+{
+    "state": {
+        "system_time": "",
+        "itinerary_initialized": true,
+        "current_subject": "",
+        "learning_progress": {},
+        "last_topic": "",
+        "difficulty_level": "intermediate",
+        "learning_style": "interactive",
+        "session_start_time": "",
+        "session_end_time": "",
+        "topics_covered": []
+    }
+} 
